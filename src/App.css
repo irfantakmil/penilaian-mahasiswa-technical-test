@@ -1,0 +1,15 @@
+.mahasiswa_container{
+  border: 1px black solid;
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  margin-left: 150px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+select {
+  width: 12%;
+}
+
+
